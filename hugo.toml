@@ -1,0 +1,4 @@
+baseURL = 'https://huesflowers.com/'
+languageCode = 'en-us'
+title = 'Hues'
+theme = 'Hues'
