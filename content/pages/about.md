@@ -10,4 +10,4 @@ All about Dusty
 
 ## The Story
 
-How it all began
+How it all began. Once upon a time...
