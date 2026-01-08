@@ -4,6 +4,10 @@ draft = false
 title = 'About'
 +++
 
-#About Us
+## The Founder
 
-All about how Hues Flowers began.
+All about Dusty
+
+## The Story
+
+How it all began
